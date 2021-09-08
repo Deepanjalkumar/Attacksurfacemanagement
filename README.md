@@ -1,5 +1,7 @@
 # Attacksurfacemanagement
 
+# Note : You can run it in parallel to cover a vast majority of assets in less time. I suggest to give it a try
+
 # Installation :
 
      git clone https://github.com/Deepanjalkumar/Attacksurfacemanagement.git
@@ -29,4 +31,6 @@
                    1- apps : Apps engine cover the visual aspect of it i.e. monitoring and see the progress of other engines. (web, cloud, network, github and etc)
                    
                    2- Business_Communication _Infrastructure_Discovery : It helps in discovery of infrastructure which help in business communication
+                   
+                   3- 
            
