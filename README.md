@@ -20,7 +20,7 @@
                    
                    jt -t monokai
                    
-     ![shot1](https://user-images.githubusercontent.com/55708909/132466189-0a474476-ea62-4851-8826-e19c26f47b23.png)
+![shot1](https://user-images.githubusercontent.com/55708909/132466189-0a474476-ea62-4851-8826-e19c26f47b23.png)
      
 # Usage/Examples :
 
