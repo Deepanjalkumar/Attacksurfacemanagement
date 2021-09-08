@@ -2,7 +2,7 @@
 
 # Note : You can run it in parallel to cover a vast majority of assets in less time. I suggest to give it a try
 
-# Attention : I had to replicate the backened framework again without breaking terms of condition to showcase you as a potential employer or client. 
+# Attention : I had to replicate the backened framework again without breaking terms of condition to showcase my work for the potential employer or client. 
 
 # Installation :
 
