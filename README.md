@@ -28,5 +28,5 @@
      
                    1- apps : Apps engine cover the visual aspect of it i.e. monitoring and see the progress of other engines. (web, cloud, network, github and etc)
                    
-                   2- 
+                   2- Business_Communication _Infrastructure_Discovery : It helps in discovery of infrastructure which help in business communication
            
