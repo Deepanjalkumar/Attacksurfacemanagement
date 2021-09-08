@@ -28,7 +28,14 @@
      
      Inside it there all lots of engine which covers various aspect of hacking. Choose as per your requirement and start hacking.
      
-     Now lets look at the other feature of it i.e sharing information on a real time . (Both locally and over internet)
+     Now lets look at the other feature of it i.e sharing information on a real time . 
+       
+                    uvicorn api:app --reload ( Uvicorn running on http://127.0.0.1:8000 )
+                    
+                    For sharing and accessing subdomain use this endpoint : /web/subdomain
+                    
+                    For sharing and accessing http and https service use this endpoint : /web/web-service
+                    
      
      
            
