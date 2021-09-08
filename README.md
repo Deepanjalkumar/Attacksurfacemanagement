@@ -32,9 +32,27 @@
        
                     uvicorn api:app --reload ( Uvicorn running on http://127.0.0.1:8000 )
                     
-                    For sharing and accessing subdomain use this endpoint : /web/subdomain
+                    /web/subdomain
                     
-                    For sharing and accessing http and https service use this endpoint : /web/web-service
+                    /web/web-service
+                    
+                    /web/internet-archive
+                    
+                    /web/crawler
+                    
+                    /web/all-files
+                    
+                    /web/cve-paths
+                    
+                    /web/juicy-paths
+                    
+                    /web/leaky-misconfigs
+                    
+                    /web/juicy-paths
+                    
+                    /network/ipv4
+                    
+                    It is flexible as you can create your own endpoints
                     
      
      
