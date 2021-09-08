@@ -26,6 +26,9 @@
      
      select the directory offensive-notebook
      
-     Inside it there all lots of engine which covers various aspect of hacking.
+     Inside it there all lots of engine which covers various aspect of hacking. Choose as per your requirement and start hacking.
+     
+     Now lets look at the other feature of it i.e sharing information on a real time . (Both locally and over internet)
+     
      
            
