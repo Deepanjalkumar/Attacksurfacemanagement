@@ -54,6 +54,13 @@
                     
                     It is flexible as you can create your own endpoints
                     
-     
-     
+    For visual inspection and monitor mode i have used streamlit to have a visual analysis of whole AttackSurfaceManagement framework.
+    
+                    streamlit run dashboard.py
+                    
+                                    Local URL: http://localhost:8501
+  
+                                    Network URL: http://192.168.43.20:8501
+                                    
+                    Monitor the  AttackSurfaceManagement framework as per your needs.
            
