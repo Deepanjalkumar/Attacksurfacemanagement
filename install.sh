@@ -6,8 +6,6 @@
 
     mkdir -p /root/Tools
 
-    sudo apt-get update
-
     #installing pip3
     echo installing pip3
     sudo apt-get install python3-pip
