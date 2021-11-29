@@ -93,6 +93,8 @@ If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
 **Dashboard:** Streamlit
 
 **Notebook:** Jupyter
+
+**Database:** SQLITE
   
 ## Support
 
