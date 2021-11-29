@@ -71,4 +71,57 @@
   ![rest](https://user-images.githubusercontent.com/55708909/132473053-247da829-5478-4c83-a614-b625a5459a1d.png)
 
   ![asm](https://user-images.githubusercontent.com/55708909/132473224-4e4e64b8-8f28-4e3d-a922-018d6430b2ff.png)
+  
+  ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
+## Feedback
+
+If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
+
+  
+## Tech Stack
+
+**Programming Language:** PYTHON, HTML, CSS JS, GOLANG
+
+**IDE:** VSCODE
+
+**API:** Fastapi
+
+**Dashboard:** Streamlit
+
+**Notebook:** Jupyter
+
+**Database:** SQLITE
+  
+## Support
+
+For support, contact me over linkeding Deepanjal kumar
+
+  
+## API Reference
+
+
+## Authors
+
+- [@Deepanjalkumar](https://github.com/Deepanjalkumar)
+
+  
+## Badges
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
+  
+## Contributing
+
+Contributions are always welcome!
+
+
+
 
