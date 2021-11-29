@@ -25,19 +25,21 @@ def app():
                 with st.beta_expander("web service"):
                     st.write(file)
 
-            cwd=os.getcwd()
-            path=os.path.join(cwd, "web_assets", "Web_service_results")
-            with open(f"{path}/all_web_service.txt", "r") as file:
-                file=file.readlines()
-                with st.beta_expander("Wayback urls"):
-                    st.write()
 
             cwd=os.getcwd()
-            path=os.path.join(cwd, "web_assets", "Web_service_results")
-            with open(f"{path}/all_web_service.txt", "r") as file:
+            path=os.path.join(cwd, "web_assets", "Crawler")
+            with open(f"{path}/gospider.txt", "r") as file:
                 file=file.readlines()
-                with st.beta_expander("screenshots"):
-                    st.write()
+                with st.beta_expander("crawler"):
+                    st.write(file)
+
+
+            cwd=os.getcwd()
+            path=os.path.join(cwd, "web_assets", "Internet_archive")
+            with open(f"{path}/waybackurls.txt", "r") as file:
+                file=file.readlines()
+                with st.beta_expander("Wayback urls"):
+                    st.write(file)
                             
 
         except Exception as e:
