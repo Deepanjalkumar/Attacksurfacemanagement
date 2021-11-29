@@ -91,6 +91,8 @@ If you have any feedback, please reach out to us at Linkedin Deepanjal kumar
 **API:** Fastapi
 
 **Dashboard:** Streamlit
+
+**Notebook:** Jupyter
   
 ## Support
 
