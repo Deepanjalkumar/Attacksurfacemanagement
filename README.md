@@ -122,6 +122,10 @@ For support, contact me over linkeding Deepanjal kumar
 
 Contributions are always welcome!
 
+## Credits 
+
+Credits goes to all the contributor whose tool has been integrated into attack surface management
+
 
 
 
