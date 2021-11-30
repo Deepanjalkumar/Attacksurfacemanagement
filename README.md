@@ -2,8 +2,6 @@
 
 # Note : You can run it in parallel to cover a vast majority of assets in less time. I suggest to give it a try
 
-# Attention : I had to replicate the backened framework again without breaking terms of condition to showcase my work for the potential employer or client. 
-
 # Installation :
 
      git clone https://github.com/Deepanjalkumar/Attacksurfacemanagement.git
@@ -121,6 +119,10 @@ For support, contact me over linkeding Deepanjal kumar
 ## Contributing
 
 Contributions are always welcome!
+
+## Credits 
+
+Credits goes to all the contributor whose tool has been integrated into attack surface management
 
 
 
